@@ -42,7 +42,7 @@ The dataset (`Sample.csv`) includes the following columns:
 
 ## Analysis
 
-The analysis notebook (`analysis.ipynb`) performs the following tasks:
+The analysis notebook (`Analysis.ipynb`) performs the following tasks:
 
 1. **Load the dataset**: Reads the CSV file into a Pandas DataFrame.
 2. **Data Exploration**:
