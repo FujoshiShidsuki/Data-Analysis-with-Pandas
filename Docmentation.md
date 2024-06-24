@@ -17,7 +17,7 @@ Analyze a dataset using the Pandas library in Python.
 
 ## Dataset
 
-The dataset (`sales_data.csv`) includes the following columns:
+The dataset (`Sample.csv`) includes the following columns:
 
 - `Date`: The date of the sale
 - `Region`: The region where the sale was made (North, South, East, West)
